@@ -3,9 +3,9 @@
 A photo album web application that is deployed on AWS. The application searches through photos using natural language through both text and voice. This application has been developed as a part of the project component for the course- Cloud Computing (CS-GY 9223, New York University)
 <br>
 ## Team Memebers 
-Himanshu Kumar 
+Rahul Ramaswamy 
 <br>
-Rahul Ramaswamy
+Himanshu Kumar
 
 ## Architecture
 ![image](https://user-images.githubusercontent.com/20517842/81481568-2748ec80-91ff-11ea-8ab4-d4d73bd18b2a.png)
